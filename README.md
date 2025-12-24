@@ -25,12 +25,16 @@ COVID-19 primarily affects the respiratory system but is strongly linked to card
 <img width="1200" height="800" alt="DEGs_VolcanoPlot" src="https://github.com/user-attachments/assets/1c2b7078-07ee-4cdc-b969-e09f0209252c" />
 
 <br>
+
 * **Figure 2:** Protein-Protein Interaction (PPI) Network of Downregulated Genes (HLA cluster).
 <img width="1060" height="629" alt="image" src="https://github.com/user-attachments/assets/ea2db735-3395-4e0c-aea9-a141c820906a" />
 
 <br>
+
 * **Figure 3:** PPI Network of Upregulated Genes (Inflammatory markers).
 <img width="898" height="546" alt="image" src="https://github.com/user-attachments/assets/8af7287f-c298-4571-b577-fb586b980263" />
+
 <br>
+
 ---
 *Research conducted by Aafreen Sayed under the guidance of Dr. Sneha Dokhale.*
