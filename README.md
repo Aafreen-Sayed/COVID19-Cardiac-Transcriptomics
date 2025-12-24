@@ -36,7 +36,7 @@ COVID-19 primarily affects the respiratory system but is strongly linked to card
 <br>
 
 * **Figure 3:** PPI Network of Upregulated Genes (Inflammatory markers).
-<img width="449" height="273" alt="image" src="https://github.com/user-attachments/assets/8af7287f-c298-4571-b577-fb586b980263" />
+<img width="530" height="266" alt="image" src="https://github.com/user-attachments/assets/8af7287f-c298-4571-b577-fb586b980263" />
 
 <br>
 <br>
