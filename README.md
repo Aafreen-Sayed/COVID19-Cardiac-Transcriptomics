@@ -24,7 +24,7 @@ COVID-19 primarily affects the respiratory system but is strongly linked to card
 <br>
 
 * **Figure 1:** Volcano Plot of Differentially Expressed Genes.
-<img width="600" height="400" alt="DEGs_VolcanoPlot" src="https://github.com/user-attachments/assets/1c2b7078-07ee-4cdc-b969-e09f0209252c" />
+<img width="530" height="353" alt="DEGs_VolcanoPlot" src="https://github.com/user-attachments/assets/1c2b7078-07ee-4cdc-b969-e09f0209252c" />
 
 <br>
 <br>
@@ -36,7 +36,8 @@ COVID-19 primarily affects the respiratory system but is strongly linked to card
 <br>
 
 * **Figure 3:** PPI Network of Upregulated Genes (Inflammatory markers).
-<img width="530" height="266" alt="image" src="https://github.com/user-attachments/assets/8af7287f-c298-4571-b577-fb586b980263" />
+<img width="530" height="325" alt="image" src="https://github.com/user-attachments/assets/8bd36d38-fd97-4307-8d0e-fafe40cbeaf9" />
+
 
 <br>
 <br>
